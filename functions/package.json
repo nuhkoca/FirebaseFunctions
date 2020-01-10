@@ -14,8 +14,8 @@
     "firebase-functions": "0.8.1"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-plugin-promise": "^3.6.0"
+    "eslint": "6.8.0",
+    "eslint-plugin-promise": "3.6.0"
   },
   "private": true
 }
