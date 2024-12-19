@@ -10,7 +10,7 @@
     "logs": "firebase functions:log"
   },
   "dependencies": {
-    "firebase-admin": "13.0.1",
+    "firebase-admin": "13.0.2",
     "firebase-functions": "6.1.2"
   },
   "devDependencies": {
